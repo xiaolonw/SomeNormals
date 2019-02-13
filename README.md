@@ -27,7 +27,7 @@ evaluateNYU3dNormal/evaluateNYUCanonical_unsup.m
 (2) the image data is in : surface_normals.tar.gz
 
 (3) the GT normals for evaluation is in: 
-
+https://www.dropbox.com/s/mz6r8k52lp5yv2n/lubor_normal.tar.gz?dl=0
 
 
 
